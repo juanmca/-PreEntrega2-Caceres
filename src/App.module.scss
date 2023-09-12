@@ -1,0 +1,28 @@
+.appContainer {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    height: fit-content;
+    width: 100vw;
+    background-color: #1055dead;
+    color: white;
+  
+    .navContainer {
+      align-items: flex-start;
+      width: 100vw;
+      height: 10%;
+    }
+  
+    .mainContainer {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      align-self: center;
+      width: 100vw;
+      height: 75%;
+    }
+  
+    
+    
+  }
