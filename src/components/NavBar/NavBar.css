@@ -2,14 +2,21 @@
     color: white;
     text-decoration: none;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
 }
 
 span{
     color: red;
     font-weight: bold;
     letter-spacing: 5px;
+
 }
 
+.navbar-links {
+    display: flex;
+    align-items: center; 
+    gap: 90px;
+  }
 
 
 
